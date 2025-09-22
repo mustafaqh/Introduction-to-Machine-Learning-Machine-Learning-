@@ -2,3 +2,4 @@
 example_for_last_task_in_A3/
 *.zip
 __pycache__
+.vscode
