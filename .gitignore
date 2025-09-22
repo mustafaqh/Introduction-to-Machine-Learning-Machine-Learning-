@@ -1,4 +1,4 @@
 .ipynb_checkpoints/
 example_for_last_task_in_A3/
 *.zip
-
+__pycache__
