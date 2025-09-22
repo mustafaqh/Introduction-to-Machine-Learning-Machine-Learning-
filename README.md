@@ -51,7 +51,7 @@ Training and evaluating models on real-world datasets with feature selection and
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python 3.x  
 - NumPy  
